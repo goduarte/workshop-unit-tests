@@ -1,0 +1,14 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage unit"
+  },
+  "author": "Rafael Duarte",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
